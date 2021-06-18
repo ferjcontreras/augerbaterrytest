@@ -1,0 +1,39 @@
+Thu Nov 28 17:02:59 2019: --- Starting Test ---
+Thu Nov 28 17:02:59 2019: Battery 1: bat1
+Thu Nov 28 17:02:59 2019: Battery 2: bat2
+Thu Nov 28 17:02:59 2019: Battery 3: bat3
+Thu Nov 28 17:02:59 2019: Battery 4: bat4
+Thu Nov 28 17:02:59 2019: Battery 5: bat5
+Thu Nov 28 17:02:59 2019: Battery 6: bat6
+Thu Nov 28 17:02:59 2019: Battery 7: bat7
+Thu Nov 28 17:02:59 2019: Battery 8: bat8
+Thu Nov 28 17:03:13 2019: Battery 1 stopped...
+Thu Nov 28 17:03:30 2019: --- Test Cancelled by User ---
+Thu Nov 28 17:06:06 2019: --- Starting Test ---
+Thu Nov 28 17:06:06 2019: Battery 1: bat1
+Thu Nov 28 17:06:06 2019: Battery 2: bat3
+Thu Nov 28 17:06:06 2019: Battery 3: bat3
+Thu Nov 28 17:06:06 2019: Battery 4: bat4
+Thu Nov 28 17:06:06 2019: Battery 5: bat5
+Thu Nov 28 17:06:06 2019: Battery 6: bat6
+Thu Nov 28 17:06:06 2019: Battery 7: bat7
+Thu Nov 28 17:06:06 2019: Battery 8: bat8
+Thu Nov 28 17:06:41 2019: --- Test Cancelled by User ---
+Thu Nov 28 17:07:09 2019: --- Starting Test ---
+Thu Nov 28 17:07:09 2019: Battery 1: bat1
+Thu Nov 28 17:07:09 2019: Battery 2: bat3
+Thu Nov 28 17:07:41 2019: --- Test Cancelled by User ---
+Thu Nov 28 17:08:50 2019: --- Starting Test ---
+Thu Nov 28 17:08:50 2019: Battery 1: bat1
+Thu Nov 28 17:08:50 2019: Battery 2: bat2
+Thu Nov 28 17:09:03 2019: --- Test Cancelled by User ---
+Thu Nov 28 17:09:11 2019: --- Starting Test ---
+Thu Nov 28 17:09:11 2019: Battery 1: bat1
+Thu Nov 28 17:09:11 2019: Battery 2: bat2
+Thu Nov 28 17:09:11 2019: Battery 3: safsd
+Thu Nov 28 17:09:11 2019: Battery 4: sdfsd
+Thu Nov 28 17:09:11 2019: Battery 5: sdfsd
+Thu Nov 28 17:09:11 2019: Battery 6: sdfds
+Thu Nov 28 17:09:11 2019: Battery 7: sdf
+Thu Nov 28 17:09:11 2019: Battery 8: sdfsd
+Thu Nov 28 17:09:14 2019: --- Test Cancelled by User ---

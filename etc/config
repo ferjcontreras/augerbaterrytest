@@ -1,0 +1,32 @@
+
+
+# TERM_ARDUINO is the serial port connected to arduino device
+
+TERM_ARDUINO		/dev/ttyUSB0
+
+# TERM_MULTI is the serial port connected to multimeter
+
+TERM_MULTI 		/dev/ttyUSB1
+
+# DELAY in seconds of the loop Test
+
+DELAY         10
+
+# LOCATION is the main path, files will be created in LOCATION/files directory
+
+LOCATION      /home/fcontreras/BatteryTest/
+
+# ICURR is the conversion factor to get the current of the batteries
+
+ICURR	        1.2772
+
+# Next lines are the voltage error correction for each battery
+
+VER1          1.042261005
+VER2          1.04893356776
+VER3          1.04489887912
+VER4          1.04566798523
+VER5          1.04866038152
+VER6          1.04898496241
+VER7          1.057335
+VER8          1.0453963
